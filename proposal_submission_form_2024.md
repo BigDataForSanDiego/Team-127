@@ -1,8 +1,8 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`
+#### Team Number: 127
 
-#### Team Name: `YOUR TEAM NAME HERE`
+#### Team Name: Team Raccoon
 
 #### Your teamâ€™s hackathon idea in One sentence:
 
@@ -20,7 +20,7 @@
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 
-- [] Access to care
+- [ ] Access to care
   > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
 - [ ] Patient satisfaction
   > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
