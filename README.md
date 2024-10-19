@@ -4,13 +4,12 @@
 
 #### Team Name: Team Raccoon
 
-#### Your teams hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 Provide patients with a chat bot that will allow them to both gain insight into their data as well as find out what services they have available with a translation system built in. 
 
 #### A visual
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true">
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/Team-127/blob/main/TeamRaccoon.webp?raw=true "Big Data Hackathon for San Diego 2024")
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
