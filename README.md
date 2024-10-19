@@ -1,11 +1,11 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: 127
+#### Team Number: `127`
 
-#### Team Name: Team Raccoon
+#### Team Name: `Team Raccoon`
 
 #### Your team's hackathon idea in One sentence:
-Provide patients with a chat bot that will allow them to both gain insight into their data as well as find out what services they have available with a translation system built in. 
+`Provide patients with a chat bot that will allow them to both gain insight into their data as well as find out what services they have available with a translation system built in.`
 
 #### A visual
 
@@ -40,9 +40,11 @@ Provide patients with a chat bot that will allow them to both gain insight into 
 - [ ] Addressing environmental health disparities (For Geocomputational Thinker Awards)
   > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
-#### Team Coordinator GitHub Username: richardselz
+#### Team Coordinator GitHub Username: `richardselz`
 
 #### Team Members
-- Prathish Murugan - prathishpratt
-- Yosen Lin - y00628
-- Richard Selznick - richardselz
+```
+Prathish Murugan - prathishpratt
+Yosen Lin - y00628
+Richard Selznick - richardselz
+```
