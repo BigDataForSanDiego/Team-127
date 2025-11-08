@@ -11,6 +11,18 @@
 #### Your teamâ€™s hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
 
+#### Team Number: `127`  
+
+#### Team Name: `Python Masters`    
+
+#### Team Coordinator GitHub Username: `jlemus23`
+
+#### Team Members `jgaribayavalos5558-boop`
+
+#### Your team's hackathon idea in One sentence:
+##### `YOUR ONE SENTENCE HERE`
+
+
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
 
