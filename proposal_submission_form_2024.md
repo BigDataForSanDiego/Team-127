@@ -14,9 +14,6 @@
 #### A visual
 ![bigdatahackathon4sd](https://gcdnb.pbrd.co/images/SVID3OiQINdP.png?o=1)
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
-
-
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 - [X] Access to Shelter and Resources
 > - Solutions to improve on-demand access and availability of shelters, food banks, medical aid, and social services for homeless individuals.
