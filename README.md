@@ -8,8 +8,9 @@
 
 #### Team Members `Jesus Garibay Avalos - jgaribayavalos5558-boop`
  
-#### Your teamâ€™s hackathon idea in One sentence:
-##### `Our proposal is to create a website/app which allows people who are experiencing housing crisis and impaired with technology to navigate and use resources with simplicity.`
+#### Your team's hackathon idea in One sentence:
+##### `“Our proposal is to create a website/app which allows older individuls who are experiencing housing crisis, cognitively impaired, and/or technologically impaired to navigate and use resources with simplicity.”
+`
  
 #### A visual
 ![bigdatahackathon4sd](https://gcdnb.pbrd.co/images/SVID3OiQINdP.png?o=1)
